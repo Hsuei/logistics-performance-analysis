@@ -37,12 +37,22 @@ Logistics companies often struggle with delayed deliveries, inefficient transpor
 *	Delivery tracking insights
 ---
 ## Dashboard Preview
-1[dashboard-overview.png] 
+# Dashboard Mainpage
+![Dashboard Mainpage](https://github.com/Hsuei/logistics-performance-analysis/blob/main/images/dashboard_overview.JPG)
+---
+# Hubs Preview
+![Hub](https://github.com/Hsuei/logistics-performance-analysis/blob/main/images/hubs_overview.JPG)
+---
+# Vehicles Preview
+![Vehicle](https://github.com/Hsuei/logistics-performance-analysis/blob/main/images/vehicles_overview.JPG)
+---
+# Drivers Preview
+![Driver](https://github.com/Hsuei/logistics-performance-analysis/blob/main/images/driver_overview.JPG) 
 ---
 ## Project Structure
-data/          # Raw datasets
-dashboard/     # Power BI dashboard files
-images/        # Dashboard screenshots
+* data/ → Raw datasets
+* dashboard/ → Power BI dashboard files
+* images/ → Dashboard screenshots
 ---
 ## Business Insights
 *	Identified regions with higher delivery delays
